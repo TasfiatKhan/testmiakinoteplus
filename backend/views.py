@@ -4,4 +4,4 @@ from django.http import HttpResponse
 # Create your views here.
 
 def hola(request):
-    return HttpResponse("HOlA \nBandir pola")
+    return HttpResponse("HOLA Bandir pola")
